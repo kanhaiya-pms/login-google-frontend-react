@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main{
+  height: 100vh;
+  width: 100vw;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.data{
+  padding-top: 50px;
+  height: 500px;
+  width: 100%;
+  background-color: aquamarine;
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
